@@ -23,6 +23,7 @@ Mục đích của repository là phục vụ **học tập, thí nghiệm và t
 - Mã nhân (Multiplicative Cipher)
 - Mã Affine (Affine Cipher)
 - Mã thay thế đơn ký tự (Monoalphabetic Substitution Cipher)
+- Mã thay thế đa ký tự (Polyalphabetic Substitution Cipher)
 - Mã Autokey
 - Mã Playfair
 - Mã Vigenere

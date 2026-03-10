@@ -15,6 +15,36 @@ Mục đích của repository là phục vụ **học tập, thí nghiệm và t
 
 ---
 
+## Hướng dẫn sử dụng Notebook
+
+Mỗi thuật toán trong repository được cài đặt dưới dạng **Jupyter Notebook**.  
+Để chạy các notebook này, thực hiện các bước sau:
+
+1. Cài đặt Python (khuyến nghị Python 3.x).
+2. Cài đặt Jupyter Notebook nếu chưa có:
+
+```bash
+pip install notebook
+```
+
+3. Mở terminal tại thư mục repository và chạy:
+
+```bash
+jupyter notebook
+```
+
+4. Trong trình duyệt, mở notebook của thuật toán cần chạy (ví dụ: `hill_cipher.ipynb`, `playfair_cipher.ipynb`, ...).
+
+5. Chạy từng cell theo thứ tự bằng cách nhấn **Shift + Enter**.
+
+Các notebook sẽ hiển thị:
+- Phần lý thuyết
+- Cài đặt thuật toán
+- Ví dụ minh họa
+- Kết quả chạy chương trình
+
+---
+
 ## Nội dung
 
 ### 1. Hệ mật thay thế đơn ký tự - Monoalphabetic

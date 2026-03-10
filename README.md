@@ -17,39 +17,18 @@ Mục đích của repository là phục vụ **học tập, thí nghiệm và t
 
 ## Nội dung
 
-### 1. Hệ mật mã thay thế
+### 1. Hệ mật thay thế đơn ký tự - Monoalphabetic
 
 - Mã cộng (Additive Cipher)
 - Mã nhân (Multiplicative Cipher)
 - Mã Affine (Affine Cipher)
 - Mã thay thế đơn ký tự (Monoalphabetic Substitution Cipher)
-- Mã thay thế đa ký tự (Polyalphabetic Substitution Cipher)
+
+### 2. Hệ mật thay thế đa ký tự - Polyalphabetic
 - Mã Autokey
 - Mã Playfair
 - Mã Vigenere
 - Mã Hill
-
-### 2. Các hệ mật cổ điển khác
-
-- One-Time Pad
-- Rotor Cipher
-- Enigma Machine
-
----
-
-## Cấu trúc mỗi Notebook
-
-Mỗi notebook được xây dựng theo cùng một cấu trúc:
-
-1. Giới thiệu
-2. Cơ sở lý thuyết
-3. Ý tưởng thuật toán
-4. Cài đặt thuật toán mã hóa
-5. Cài đặt thuật toán giải mã
-6. Giải thích thuật toán
-7. Chạy thử chương trình
-8. Minh họa quá trình mã hóa
-9. Minh họa quá trình giải mã
 
 ---
 

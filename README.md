@@ -37,12 +37,6 @@ jupyter notebook
 
 5. Chạy từng cell theo thứ tự bằng cách nhấn **Shift + Enter**.
 
-Các notebook sẽ hiển thị:
-- Phần lý thuyết
-- Cài đặt thuật toán
-- Ví dụ minh họa
-- Kết quả chạy chương trình
-
 ---
 
 ## Nội dung

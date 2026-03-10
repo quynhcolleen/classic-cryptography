@@ -1,6 +1,6 @@
 # Các thuật toán mật mã cổ điển (Classical Cryptography)
 
-Repository này chứa các **Jupyter Notebook cài đặt và minh họa các hệ mật mã cổ điển** trong môn học **Lý thuyết mật mã**.
+Repository này chứa các **Jupyter Notebook cài đặt và minh họa các hệ mật mã ĐỐI XỨNG cổ điển** trong môn học **ET3310 - Lý thuyết mật mã**.
 
 Mỗi thuật toán được trình bày bao gồm:
 
